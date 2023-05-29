@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Eran! 
+## Hi there 👋🏼, I'm Eran! 
 
 I am a software developer with a Bachelor of Science degree in mathematics and computer science from the Hebrew University of Jerusalem. Passionate about problem-solving and programming, I am constantly seeking new challenges to expand my skills and knowledge.
 
@@ -14,7 +14,7 @@ I am a software developer with a Bachelor of Science degree in mathematics and c
 
 - Bachelor of Science in Mathematics and Computer Science, Hebrew University of Jerusalem.
 
-## Contact 
+## Contact 📡
 
 - Email: eran.levi3@mail.huji.ac.il
 - LinkedIn: http://linkedin.com/in/eran-levy-link
