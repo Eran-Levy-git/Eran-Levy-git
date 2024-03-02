@@ -21,3 +21,7 @@ I am a software developer with a Bachelor of Science degree in mathematics and c
 
 I am actively seeking a position as a software developer, where I can apply my skills and contribute to exciting projects. If you have any opportunities or would like to connect, please feel free to reach out. I'm looking forward to hearing from you!
 
+## Projects 💼
+
+Check out my IOS App:
+https://apps.apple.com/il/app/shabbat-candle-light-reminder/id6476300513
